@@ -7,3 +7,5 @@ I got involved in the PEV (personal electric vehicle) scene not long after I mov
 I do Uber Eats for work on my electric unicycles and have been for nearly aslong as I've been here. I enjoy doing food delivery but I'm looking to transition into a career that is better suited for the longer term. I've always played around with computers ever since I got my first Dell laptop with Windows XP years ago although I never did really get into coding. Being in the Seattle and having a fair amount of my friends working in the tech sector, I figured I'd see what it was all about! 
 
 ![Gotway MSX 100V](https://user-images.githubusercontent.com/106117275/178044315-96773a39-9a0f-41c1-89b4-05866fafdc7d.jpg)
+
+If you'd like to follow my work you can follow it here --> [GitHub](https://github.com/celt29) : ).
