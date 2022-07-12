@@ -1,5 +1,6 @@
 
 *What is the Growth Mindset?*
+
 The growth mindset to me is the ability to see a problem in different ways/perspectives. It's the ability to persevere when things start to get hard. It's basically a can do attitude. By contrast a Fixed Mindset is the opposite. It's inflexable, it's a can't do attitude. A view of life that is black or white instead of shades of grey. 
 
 ***3 ways to keep myself in a growth mindset***
