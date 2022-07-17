@@ -8,5 +8,8 @@ I do Uber Eats for work on my electric unicycles and have been for nearly aslong
 
 ![Gotway MSX 100V](https://user-images.githubusercontent.com/106117275/178044315-96773a39-9a0f-41c1-89b4-05866fafdc7d.jpg)
 
+## 102 Classes
+- [Class 1](class1.md)
+
 
 If you'd like to follow all of my work you can follow it here --> [GitHub](https://github.com/celt29) : ).
