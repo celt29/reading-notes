@@ -7,7 +7,7 @@ The growth mindset to me is the ability to see a problem in different ways/persp
 
 - I like what Steve Haffenden from our reading says 
 
->*"...I try to recognize that avoidance, take a step back, and think about the growth mindset. When I’m ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. And for me, it always helps to talk through these steps – out loud, not just in my head."*.
+>"...I try to recognize that avoidance, take a step back, and think about the growth mindset. When I’m ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. And for me, it always helps to talk through these steps – out loud, not just in my head.".
 
 So my plan is to recognize when I'm avoiding something I need to work on by being easily distractable. In additon to that, paying attention to when I see the work of others as a threat or something that makes me feel bad about my own work.
 
