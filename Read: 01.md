@@ -16,7 +16,11 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   To do Italic is just like Bolt but with 1 asterik (* *).
   - ***Bold and Italic:***  
   To do Bold and Italic at the sametime you do 3 asteriks before and after (*** ***). 
- - Blockquotes
+- Blockquotes:  
+  - Single Paragraph:  
+  You do an > plus a space ( ) then begin typing whatever you want the BQ to be.  
+  - Multiple Paragraphs:  
+  To do a multi Paragraph BQ you do the same as for a single BQ but you add an > on each blank line between Paragraphs. For the 2nd or 3rd and so on paragraph you just do the > as normal.
 - Lists
 - Code
 - Horizontal Rules
