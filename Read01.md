@@ -26,6 +26,12 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   - BQ's can contain most MD formated elements but not all. You have to experiment. 
   - BQ best practice is to put a blank line before and after.
 - Lists
+  - Unordered list:  
+  In order to do an UL you simply add a - with a space ( ) after it and then add w/e you want to the list. An example would be (- ).
+  - Ordered list:  
+  To do an OL you start with the number 1 add a period (1.) and then when you want to go to the next list item you just start on a new line and do the number 2 with a period (2.) and so on.
+  
+  
 - Code
 - Horizontal Rules
 - Links
