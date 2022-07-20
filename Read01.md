@@ -27,10 +27,12 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   - BQ best practice is to put a blank line before and after.
 - Lists
   - Unordered list:  
-  In order to do an UL you simply add a - with a space ( ) after it and then add w/e you want to the list. An example would be (- ).
+  In order to do an UL you simply add a - with a space ( ) after it and then add w/e you want to the list. An example would be (- ). If you want to start an UL with a number followed by a period you need to "escape" the (.) with a (\) before it, otherwise it will become an OL.
   - Ordered list:  
   To do an OL you start with the number 1 add a period (1.) and then when you want to go to the next list item you just start on a new line and do the number 2 with a period (2.) and so on.
-  
+  - Adding elements in Lists:  
+  To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples. Reference the Basic Syntax reading.
+  You can nest an UL in an OL, indent 4 spaces. 
   
 - Code
 - Horizontal Rules
