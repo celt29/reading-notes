@@ -12,6 +12,4 @@ I do Uber Eats for work on my electric unicycles and have been for nearly aslong
 - [Lab: 01b](Lab: 01b.md)
 - [Read: 01](Read: 01.md)
 
-
-
 If you'd like to follow all of my work you can follow it here --> [GitHub](https://github.com/celt29) : ).
