@@ -21,6 +21,10 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   You do an > plus a space ( ) then begin typing whatever you want the BQ to be.  
   - Multiple Paragraphs:  
   To do a multi Paragraph BQ you do the same as for a single BQ but you add an > on each blank line between Paragraphs. For the 2nd or 3rd and so on paragraph you just do the > as normal.
+  - Nested paragraphs:  
+  You can nest a BQ by doing 2 >>'s infront of the paragraph you want to nest.
+  - BQ's can contain most MD formated elements but not all.
+  - BQ best practice is to put a blank line before and after.
 - Lists
 - Code
 - Horizontal Rules
