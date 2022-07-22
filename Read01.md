@@ -34,10 +34,18 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples. Reference the Basic Syntax reading.
   You can nest an UL in an OL, indent 4 spaces. 
   
-- Code
-- Horizontal Rules
+- Code  
+To denote a word or phrase as code, enclose it in backticks (`).
+To escape backticks you may already have inplace of single or double quotes you do this (` `).
+- Horizontal Rules  
+Do three dashes (---) on a line by themselves.
 - Links
-- Images
+[name](website link)
+Quickly turn URL or email into a link enclose the link in < >.
+Formating links add asterisks before and after the brackets and parens. For code, add backticks inside the brackets.
+- Images  
+
+
 - Escaping Characters
 
 
