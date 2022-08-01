@@ -1,5 +1,5 @@
 
-##Command line notes
+## Command line notes
 
 Command -> command line argument (1st is called an option, usually starts with a dash ( - )) -> command line arguments.
 
