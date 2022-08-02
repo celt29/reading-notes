@@ -9,6 +9,7 @@ pwd: print working directory
 ls: list.
 
 ### Paths
-
+**Absolute**: Specifies a location (file or directory) in relation to the root directory. Always begins with a (/)  
+**Relative**: Specifies a location (file or directory) in relation to where we currently are in the system. Doesn't begin with a (/).  
 
 
