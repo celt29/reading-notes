@@ -13,7 +13,7 @@ Cd .. : Go up one level in the file tree
 . : Refers to my current directory. More on it later.
 .. : Refers to the directory up one level aka parent directory.
 
-v### Paths
+## Paths
 **Absolute**: Specifies a location (file or directory) in relation to the root directory. Always begins with a (/)  
 **Relative**: Specifies a location (file or directory) in relation to where I am currently are in the system. Doesn't begin with a (/).  
 
