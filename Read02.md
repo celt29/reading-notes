@@ -7,7 +7,7 @@ Command -> command line argument (The first is called an option, usually starts 
 
 pwd: print working directory  
 ls: list. Can be used not just by itself.  
-Cd: Change directory. 
+Cd: Change directory. Cd by itself brings back to home directory (but not root directory?). Usually done with one CLA.
 Cd .. : Go up one level in the file tree. 
 ~: Shortcut for the home directory. Can use it instead of writing out the path.  
 . : Refers to my current directory. More on it later.  
