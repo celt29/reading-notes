@@ -27,7 +27,7 @@ Everything in Linux is a file.
 
 Linux is case sensitive (for literally everything) where as windows isn't.
 
-There are no extensions in Linux like .exe .jpg etc. Linux identifies the file by looking inside and doesn't use extensions to indentify files. There's a command called file [path] that I can use to identify what the file actually is.
+There are no extensions in Linux like .exe .jpg etc. Linux identifies the file by looking inside and doesn't use extensions to indentify files. There's a command called `file` that I can use to identify what the file actually is.
 
 Spaces: So I can't space two words apart and think Linux will know which is which it won't. So if I cd to something the first CLA will be used even tho the directory I wanna go to is two words. The way to around this is by using quotes. Either single or double quotes. I do that and it's a package deal.
 
