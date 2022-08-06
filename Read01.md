@@ -35,7 +35,7 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   You can nest an UL in an OL, indent 4 spaces. 
   
 - Code  
-To denote a word or phrase as code, enclose it in backticks (`).
+To denote a word or phrase as code, enclose it in backticks (` `).
 To escape backticks you may already have inplace of single or double quotes you do this (` `).
 - Horizontal Rules  
 Do three dashes (---) on a line by themselves.
