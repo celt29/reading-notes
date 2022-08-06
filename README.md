@@ -11,6 +11,6 @@ I do Uber Eats for work on my electric unicycles and have been for nearly aslong
 ## 102 Classes
 - [Lab: 01b](Lab01b.md)
 - [Read: 01](Read01.md)
-- [Read: 02](Read01.md)
+- [Read: 02](Read02.md)
 
 If you'd like to follow all of my work you can follow it here --> [GitHub](https://github.com/celt29) : ).
