@@ -33,4 +33,4 @@ Spaces: So I can't space two words apart and think Linux will know which is whic
 
 Escape Characters: The blackslash \ is such a character. It nullifies the special meaning of the next character. In the the tutorial they used Holiday Photos where normal Holiday Photos would be two seperate CLA's but with backslash after Holiday\ Photos it removes that space and it becomes Holiday Photos as a package in the eyes of the computer. SHORTCUT: if I do tab before I type the space between words the tab will complete what I want to say and automaically escape that space without me having to use the \.
 
-Hidden files: To hide a file I just need to start the name with a period (.) or rename it later with a (.). Like .file.txt vs file.txt (even tho were not using extensions.
+Hidden files: To hide a file I just need to start the name with a period (.) or rename it later with a (.). Like .file.txt vs file.txt (even tho were not using extensions. To show all files including hidden files `ls -a`.
