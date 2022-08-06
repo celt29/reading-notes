@@ -39,8 +39,8 @@ To denote a word or phrase as code, enclose it in backticks (` `).
 To escape backticks you may already have inplace of single or double quotes you do this (` `).
 - Horizontal Rules  
 Do three dashes (---) on a line by themselves.
-- Links
-[name](website link)
+- Links  
+No spaces between brackets when using [ name ](website link).
 Quickly turn URL or email into a link enclose the link in < >.
 Formating links add asterisks before and after the brackets and parens. For code, add backticks inside the brackets.
 - Images  
