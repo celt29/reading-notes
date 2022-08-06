@@ -12,6 +12,10 @@ Command -> command line argument (The first is called an option, usually starts 
 `~`: Shortcut for the home directory. Can use it instead of writing out the path.  
 `.` : Refers to my current directory. More on it later.  
 `..` : Refers to the directory up one level aka parent directory.  
+`file`: Identifies the type of file.  
+`ls -a`: Reveals all hidden folders and files.  
+
+[Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
 ## Paths
 **Absolute**: Specifies a location (file or directory) in relation to the root directory. Always begins with a (/)  
@@ -33,4 +37,4 @@ Spaces: So I can't space two words apart and think Linux will know which is whic
 
 Escape Characters: The blackslash \ is such a character. It nullifies the special meaning of the next character. In the the tutorial they used Holiday Photos where normal Holiday Photos would be two seperate CLA's but with backslash after Holiday\ Photos it removes that space and it becomes Holiday Photos as a package in the eyes of the computer. SHORTCUT: if I do tab before I type the space between words the tab will complete what I want to say and automaically escape that space without me having to use the \.
 
-Hidden files: To hide a file I just need to start the name with a period (.) or rename it later with a (.). Like .file.txt vs file.txt (even tho were not using extensions. To show all files including hidden files `ls -a`.
+Hidden files: To hide a file I just need to start the name with a period (.) or rename it later with a (.). Like .file.txt vs file.txt (even tho were not using extensions. To show all files including hidden files and directories use `ls -a`
