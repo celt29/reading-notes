@@ -28,5 +28,5 @@ If I want to convert/import an exisiting directory into Git I need to follow the
 ### Cloning
 
 `git clone https://github.com/test` which is the repository URL that I want to clone. This creates a directory called "test".  
-`git clone https://github.com/test To make a diretory that has a name I choose
+`git clone https://github.com/test blank` To make have it make the clone directory inside pf the "blank" directory.
 
