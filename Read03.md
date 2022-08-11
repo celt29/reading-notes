@@ -23,5 +23,10 @@ If I want to convert/import an exisiting directory into Git I need to follow the
 3. (performs an initial commit.)
     1. `git add *.c`
     2. `git add LICENSE` 
-    3. `git commit -m "whatever I want to say here"`
-4. 
+    3. `git commit -m "whatever I want to say here"`  
+
+### Cloning
+
+`git clone https://github.com/test` which is the repository URL that I want to clone. This creates a directory called "test".  
+`git clone https://github.com/test To make a diretory that has a name I choose
+
