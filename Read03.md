@@ -32,3 +32,27 @@ If I want to convert/import an exisiting directory into Git I need to follow the
 `git clone https://github.com/test blank`
 To have it make the clone directory inside of the "blank" directory.
 
+
+### Local Repository Structure  
+Working Directory: The actual files reside here.
+Index: The area used for staging
+Head: Points to the most recent commit
+
+### Saving Changes
+
+Tracked:  
+Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.  
+
+Untracked:  
+Untracked files were not in the last snapshot and do not currently reside in the staging area.
+
+*After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
+
+1. Edit -> Git flags as modified.
+2. I stage the modded file. 
+3. Then I commit.
+
+### Check File Status
+
+To check the status of files use `git status`
+
