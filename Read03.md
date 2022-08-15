@@ -80,3 +80,9 @@ This pushes changes from my local master or main brain to the remote repo called
 
 If I'm not ready to commit but I don't want to loose what I'm working on I can use `git stash` which removes and temporaily hide them so I have a clean working directory. When I want them back I can use the `git stash apply` command.   
 
+### Seeing Your Remotes
+
+To view all short names of all of my remote handles: `git remote` 
+
+To view the short names and URLs: `git remote -v`
+
