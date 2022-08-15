@@ -56,3 +56,27 @@ Untracked files were not in the last snapshot and do not currently reside in the
 
 To check the status of files use `git status`
 
+"Working directory clean" indicates that files have tracked or modified status at that moment.
+
+### Tracking and Staging a new file or files
+
+`git add filename`  
+
+`git add *` tracks all files in a repository.  
+### Commiting a File
+
+`git commit -m "whatever change I made "`  
+
+### Commiting All Changes
+
+`git commit -a`
+This command commits a snapshot of all modifications to tracked files in the working directory.
+
+### Pushing Changes
+`git push origin master`
+This pushes changes from my local master or main brain to the remote repo called origin.
+
+### Stashing Changes
+
+If I'm not ready to commit but I don't want to loose what I'm working on I can use `git stash` which removes and temporaily hide them so I have a clean working directory. When I want them back I can use the `git stash apply` command.   
+
