@@ -35,13 +35,13 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   You can nest an UL in an OL, indent 4 spaces. You can also do an OL inside an OL tha same way.
   
 - Code  
-To denote a word or phrase as code, enclose it in backticks (` `).
-To escape backticks you may already have inplace of single or double quotes you do this \ \` `\ \ (but with no spaces).
+To denote a word or phrase as code, enclose it in backticks \` `\.
+To escape double backticks you do a double backslash with no spaces with the backticks inside.
 - Horizontal Rules  
 Do three dashes (---) on a line by themselves.
 - Links  
-No spaces between brackets when using [ name ](website link).
-Quickly turn URL or email into a link enclose the link in < >.
+[ name ](website link) but with no spaces between the brackets and name.
+Quickly turn a URL or email into a link enclose the link in < >.
 Formating links add asterisks before and after the brackets and parens. For code, add backticks inside the brackets.
 - Images  
 
