@@ -18,25 +18,25 @@ To create a linebreak, use 2 white spaces after the last word or letter. Then be
   To do Bold and Italic at the sametime you do 3 asteriks before and after (*** ***). 
 - Blockquotes:  
   - Single Paragraph:  
-  You do an > plus a space ( ) then begin typing whatever you want the BQ to be.  
+  You do an > plus a space then begin typing whatever you want the BQ to be.  
   - Multiple Paragraphs:  
   To do a multi Paragraph BQ you do the same as for a single BQ but you add an > on each blank line between Paragraphs. For the 2nd or 3rd and so on paragraph you just do the > as normal.
   - Nested paragraphs:  
   You can nest a BQ by doing 2 >>'s infront of the paragraph you want to nest.
-  - BQ's can contain most MD formated elements but not all. You have to experiment. 
+  - BQ's can contain most Markdown formated elements but not all. You have to experiment. 
   - BQ best practice is to put a blank line before and after.
 - Lists
   - Unordered list:  
-  In order to do an UL you simply add a - with a space ( ) after it and then add w/e you want to the list. An example would be (- ). If you want to start an UL with a number followed by a period you need to "escape" the (.) with a (\) before it, otherwise it will become an OL.
+  In order to do an UL you simply add a (-) with a space after it and then add whatever you want to the list. An example would be (- blah). If you want to start an UL with a number followed by a period you need to "escape" the (.) with a (\) before it, otherwise it will become an OL. Example (- 1\.).
   - Ordered list:  
-  To do an OL you start with the number 1 add a period (1.) and then when you want to go to the next list item you just start on a new line and do the number 2 with a period (2.) and so on.
+  To do an OL you start with the number 1 and add a period (1.) and then when you want to go to the next list item you just start on a new line and do the number 2 with a period (2.) and so on.
   - Adding elements in Lists:  
   To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples. Reference the Basic Syntax reading.
-  You can nest an UL in an OL, indent 4 spaces. 
+  You can nest an UL in an OL, indent 4 spaces. You can also do an OL inside an OL tha same way.
   
 - Code  
 To denote a word or phrase as code, enclose it in backticks (` `).
-To escape backticks you may already have inplace of single or double quotes you do this (` `).
+To escape backticks you may already have inplace of single or double quotes you do this \ \` `\ \ (but with no spaces).
 - Horizontal Rules  
 Do three dashes (---) on a line by themselves.
 - Links  
