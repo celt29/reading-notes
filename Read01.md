@@ -4,7 +4,7 @@
 Markdown is essentially a way to make content for the web without having to learn a programming language. It's designed to be simple and be more like how you would write normally in your day to day. It does have some special characters but it's significantly less complicated to learn and use compared to something like HTML.
 
 - **Headings:**  
-use # symbols (# like this) numbering from 1 # to 6 #'s, with 1 being the largest. Then a space followed by whatever text you want your header to be.
+use # symbols numbering from 1 # to 6 #'s, with 1 being the largest. Then a space followed by whatever text you want your header to be.
 - **Paragraphs:**  
 To create a Paragraph, seperate lines of text by using a blank line inbetween. See below.
 
@@ -40,13 +40,14 @@ To create a linebreak, use 2 white spaces after the last word, letter or sentenc
   You can nest an UL in an OL, indent 4 spaces. You can also do an OL inside an OL tha same way.
   
 - Code  
-To denote a word or phrase as code, enclose it in backticks \` `\.  
-To escape double backticks you do a double backslash with no spaces with the backticks inside.
+To denote a word or phrase as code, enclose it in backticks \` \`.
+To escape double backticks you do one backslash with no spaces infront of each backtick.
 - Horizontal Rules  
 Do three dashes (---) on a line by themselves.
+---
 - Links  
-[ name ](website link) but with no spaces between the brackets and name.
-Quickly turn a URL or email into a link enclose the link in < >.
+[name](website link)
+Quickly turn a URL or an email into a link enclose the it in brackets <>.
 Formating links add asterisks before and after the brackets and parens. For code, add backticks inside the brackets.
 - Images  
 
