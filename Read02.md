@@ -6,7 +6,7 @@ Command -> command line argument (The first is called an option, usually starts 
 **Shortcut**: Use the arrow keys to go through already typed commands. Use side arrows to customize them.
 
 `pwd`: **print working directory**  
-`ls`: **list**. Can be used in conjunction with other code. 
+`ls`: **list**. Can be used in conjunction with other code.  
 `cd`: **Change directory**. *Cd by itself brings me back to home directory.* Usually done with one CLA.  
 `cd` .. : **Go up one level in the file tree.**  
 `~`: **Shortcut for the home directory**. Can use it instead of writing out the path.  
