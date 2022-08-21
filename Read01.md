@@ -61,5 +61,5 @@ Formating links add asterisks before and after the brackets and parens. For code
 - Escaping Characters  
 To display a literal character otherwise used to foramt text in MD add a backslash (\) in front of the character with no spaces. E.g. \`code\` which would normally show up as `code`.
 
-
+[Back to my home page](README.md)
 
