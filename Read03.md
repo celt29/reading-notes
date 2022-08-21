@@ -6,7 +6,7 @@
 
 To make sure I entered in the name and email correctly, enter each command and see what they return.
 
-To check different git settings (which include the settings above) use the `git config --list` command.
+To check different git settings (which include the settings above) use `git config --list`.
  
  ### Getting Help with understanding commands
  
@@ -34,16 +34,17 @@ To have it make the clone directory inside of the "blank" directory.
 
 
 ### Local Repository Structure  
-Working Directory: The actual files reside here.
-Index: The area used for staging
-Head: Points to the most recent commit
+
+**Working Directory**: The actual files reside here.  
+**Index**: The area used for staging.    
+**Head**: Points to the most recent commit.  
 
 ### Saving Changes
 
-Tracked:  
+**Tracked**:  
 Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.  
 
-Untracked:  
+**Untracked**:  
 Untracked files were not in the last snapshot and do not currently reside in the staging area.
 
 *After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
@@ -63,6 +64,7 @@ To check the status of files use `git status`
 `git add filename`  
 
 `git add *` tracks all files in a repository.  
+
 ### Commiting a File
 
 `git commit -m "whatever change I made "`  
@@ -73,6 +75,7 @@ To check the status of files use `git status`
 This command commits a snapshot of all modifications to tracked files in the working directory.
 
 ### Pushing Changes
+
 `git push origin master`
 This pushes changes from my local master or main brain to the remote repo called origin.
 
