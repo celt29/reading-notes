@@ -89,3 +89,4 @@ To view all short names of all my remote handles: `git remote`
 
 To view the short names and URLs: `git remote -v`
 
+[Back to my home page](README.md)
