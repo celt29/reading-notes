@@ -14,3 +14,5 @@ The growth mindset to me is the ability to see a problem in different ways/persp
 - ***Reflect at the end of my day*** on what was the best part, what didn't go well and how I can make sure what didn't go well goes better the next time.
 
 - ***Take note of when I'm in the growth mindset*** and the flow of things. To notice that it feels good and that I'm capable of not constantly being in a Fixed Mindset.
+
+(Homepage)[README.md]
