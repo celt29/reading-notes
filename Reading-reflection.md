@@ -1,1 +1,3 @@
-
+Hmmmm so what did I learn? 
+  
+  Well I learned that I make mistakes even when I don't think I do. I learned that it's good to go back over my notes because there were a quite a few areas where I just didn't feel like I explained things in a way that was easy for me to understand and they're notes for me at the end of the day! So it was cool to go over it, change it and then go over it again and be like "Ok I'm happy with this". So ultimately it taught me that a lot of areas can usually be rewritten in a clearer way and that in the moment I can't always see what that way is but if I comeback to it later I probably will :).
