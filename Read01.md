@@ -52,7 +52,7 @@ To escape double backticks you do one backslash with no spaces infront of each b
 Do three dashes (---) on a line by themselves.
 ---
 - Links  
-[ name ]( website link )
+\[name](website link)
 Quickly turn a URL or an email into a link enclose the it in angle brackets <>.
 Formating links add asterisks before and after the brackets and parens. For code, add backticks inside the brackets.
 - Images  
