@@ -35,7 +35,7 @@ To create a linebreak, use 2 white spaces after the last word, letter or sentenc
   - Ordered list:  
   To do an OL you start with the number 1 and add a period (1.) and then when you want to go to the next list item you just start on a new line and do the number 2 with a period (2.) and so on.
   - Adding elements in Lists:  
-  To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples. Reference the Basic Syntax reading. Have to add a space between each UL item or two spaces after each UL item. E.g. of a Blockquote Element.
+  To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples. Have to add a space between each UL item or two spaces after each UL item. E.g. of a Blockquote Element.
   - First item
   - Second item
   
